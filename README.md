@@ -1,3 +1,4 @@
+
 # Dataset: Fortes et al. ICEIS 2017
 
 Dataset used in **Fortes et al.**, *A Multicriteria Evaluation of Hybrid Recommender Systems: On the usefulness of Input Data Characteristics*. In Proceedings of the 19th International Conference on Enterprise Information Systems - Volume 2: ICEIS, ISBN 978-989-758-248-6, pages 623-633. DOI: 10.5220/0006315406230633. Porto, Portugal. April, 2017.
@@ -24,3 +25,18 @@ The files are structured into three individually compressed folders:
     -   Folds _F[12345]-T_: testing files for each fold.
     -   Fold _Tuning_: files used for tuning composed of the individual algorithms tuning files.
     -   Fold _keys_: contains the user / item keys related to each line.
+
+# Downloadable Files
+
+-   **Bookcrossing dataset**
+    -   [data](https://drive.google.com/file/d/12UualNof3f6bwreAJNFLQdpJzVk0U0Zp/view?usp=sharing).
+    -   [meta-features](https://drive.google.com/file/d/1CtJPpZ1Fmg_aj30SCugwFDp4FHxuRerX/view?usp=sharing).
+    -   [features](https://drive.google.com/file/d/1J1cPVzu0C6JflIE9ROC84YpMd5no9rws/view?usp=sharing).
+-   **Jester dataset**
+    -   [data](https://drive.google.com/file/d/1SHycMtE6m8LxhWRmzWEIWAf5_nA5HPzG/view?usp=sharing).
+    -   [meta-features](https://drive.google.com/file/d/188Op6KcgxI6kM3Un42ZKnalyAucGxXFp/view?usp=sharing).
+    -   [features](https://drive.google.com/file/d/1rZ1sA3tkjSnaahy4MM-CAP2DNhb1RcKw/view?usp=sharing).
+-   **Movielens (1M) dataset**
+    -   [data](https://drive.google.com/file/d/1jJE-joIV-TX5kpiar9vo8SCaXFZ9JOyu/view?usp=sharing).
+    -   [meta-features](https://drive.google.com/file/d/1ONlgf3zJ9NwVvIouLOU4VQT6VEfpDCb2/view?usp=sharing).
+    -   [features](https://drive.google.com/file/d/1QR6tO4Kh-ltDC9DAn-SwudVDGiFwpuQj/view?usp=sharing).
