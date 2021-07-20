@@ -14,7 +14,7 @@ The files are structured into three individually compressed folders:
     -   _TuningSample*.txt_: contains the extracted samples for tuning the individual algorithms.
     -   _u.item.attributes_: contains attributes of items processed from its content to be used in MyMediaLite content-aware algorithms.
     -   _u.user.attributes_: contains user attributes processed from its content to be used in MyMediaLite content-aware algorithms (only for ML1M, generated from the original database).
-    -   Folds composition: file ***folds.xls***
+    -   Folds composition: file ***[folds.xls](folds.xlsx)***
 -   **meta-features**: contains the computed _meta-features_ for each fold:
     -   The values are normalized.
     -   Negative values characterize _missing values_, which are treated as ZERO in the composition of features.
